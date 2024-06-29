@@ -43,6 +43,7 @@ const MobileNav = ({ setMobileNav }) => {
               className={`${
                 pathname === link.href && "border-b-2 border-accent-100"
               } uppercase max-w-max mx-auto`}
+              onClick={() => setMobileNav(false)}
             >
               {link.name}
             </Link>
