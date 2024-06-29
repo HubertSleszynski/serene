@@ -5,9 +5,15 @@ import { motion } from "framer-motion";
 import { useContext } from "react";
 import Image from "next/image";
 import ModalVideo from "@/components/ModalVideo";
+import { useRouter } from "next/navigation";
 
 const Home = () => {
   const { mouseEnterHandler, mouseLeaveHandler } = useContext(CursorContext);
+  const router = useRouter();
+
+  const handleContactClick = () => {
+    router.push("/contact");
+  };
   return (
     <motion.section
       initial={{ opacity: 0 }}
@@ -45,6 +51,7 @@ const Home = () => {
                 onMouseEnter={mouseEnterHandler}
                 onMouseLeave={mouseLeaveHandler}
                 className="btn btn-lg"
+                onClick={handleContactClick}
               >
                 Book an appointment
               </motion.button>

@@ -57,8 +57,13 @@ const About = () => {
               Committed to Your Skin's Health and Beauty
             </h2>
             <p className="lead max-w-[600px] mx-auto xl:mx-0">
-              Tailored skincare solutions for a healthy complexion, offering
-              customized care for radiant skin
+              Our beauty salon is where professionalism meets beauty. We
+              specialize in a wide range of services, from facial treatments to
+              eyebrow styling, always ensuring the highest quality and comfort
+              for our clients. Our experienced team of cosmetologists uses only
+              the best products to deliver optimal results. We invite you to
+              experience our unique atmosphere and personalized approach that
+              will make you feel truly special.
             </p>
             <div className="grid grid-cols-3 gap-[30px] mb-14 mx-auto xl:mx-0">
               <div>
