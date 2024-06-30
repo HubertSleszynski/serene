@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Serene
 
-## Getting Started
+My personal web application project showcases a modern approach to beauty salon management using React, Next.js, TailwindCSS, and Framer Motion technologies.
 
-First, run the development server:
+With four main pages, starting with the Home page featuring a video modal for displaying YouTube content, users can explore the salon's atmosphere virtually. The About page succinctly describes the salon’s services and ethos, while the Treatments page details various procedures offered. On the Contact page, users find salon contact information and a convenient form for inquiries.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project not only demonstrates my frontend development skills but also highlights my ability to create intuitive user experiences tailored for the beauty industry.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tech Stack
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+React | Next.js | TailwindCSS | Framer Motion
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Demo
 
-## Learn More
+LIVE: [Serene](https://hrs-serene.netlify.app/)
 
-To learn more about Next.js, take a look at the following resources:
+## Screenshot
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<img src="/src/assets/hrs-serene.netlify.app_ (1)-full.jpg" width="800">
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Author
 
-## Deploy on Vercel
+### Hubert Śleszyński
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Portfolio: https://hrs-dev.netlify.app/
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Linkedin: https://www.linkedin.com/in/hubertsleszynski/
+
+Github: https://github.com/HubertSleszynski
