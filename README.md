@@ -16,7 +16,7 @@ LIVE: [Serene](https://hrs-serene.netlify.app/)
 
 ## Screenshot
 
-<img src="/src/assets/hrs-serene.netlify.app_ (1)-full.jpg" width="800">
+<img src="/public/assets/hrs-serene.netlify.app_ (1)-full.jpg" width="800">
 
 ## Author
 
